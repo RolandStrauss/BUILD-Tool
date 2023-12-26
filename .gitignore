@@ -1,0 +1,9 @@
+.vscode/rpglint.json
+.vscode/actions.json
+
+**/.deps
+**/.evfevent
+**/.logs
+
+._.DS_Store
+.project
