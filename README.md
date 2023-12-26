@@ -2,10 +2,10 @@
 This tool works like a "make" tool for IBM i native languages
 This tool is based on Scott Klement build tool, that can be found here:
 <p align="left">
-<a href="https://www.scottklement.com/build/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/IBM_i_logo_%282021%29.svg" width="40" height="40" alt="IBMi" /></a> 
-/p>
+<a href="https://www.scottklement.com/build/" target="_blank" rel="noreferrer"><img src="https://github.com/RolandStrauss/BUILD-Tool/blob/main/sklogo.gif" width="40" height="40" alt="Scott Klement" /></a> 
+</p>
 
-A General Purpose Build Tool
+## A General Purpose Build Tool
 For years, I've found myself typing comments at the top of my code telling people how to compile it. Every source member I create, regardless of the language I do it in, always has comments telling the next programmer which steps need to be taken to compile my code. However, the popularity of development environments like WDSC and PDM make it cumbersome to type a slew of compile commands at a command line. Wouldn't it be nice if there were a tool that reads the compile commands from the source member and runs them automatically? That's what the BUILD tool presented in this article does.
 
 Introducing the Build Tool
